@@ -1,0 +1,26 @@
+# Vendor documentation: ESTUN's copyrighted manuals stay local (see docs/README.md)
+docs/*.pdf
+
+# Flutter / Dart
+app/.dart_tool/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/android/.gradle/
+app/android/local.properties
+app/windows/flutter/ephemeral/
+app/**/GeneratedPluginRegistrant.*
+app/**/generated_plugin_registrant.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Local machine state
+.path-backup.txt
+.claude/settings.local.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
