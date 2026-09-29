@@ -1,3 +1,5 @@
+
+<img width="1280" height="800" alt="01_idle" src="https://github.com/user-attachments/assets/0b1f4bb6-3979-4aea-aab6-fcacb5d4147a" />
 # Codroid Tablet HMI
 
 A Wi-Fi Android tablet HMI for ESTUN S-Series cobots with **Codroid Gen1 and Gen2** controllers. It lets an operator select a program, then START, PAUSE, RESUME or STOP it. A heartbeat watchdog stops the robot when the tablet link is lost.
